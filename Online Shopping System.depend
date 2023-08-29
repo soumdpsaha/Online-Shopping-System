@@ -1,0 +1,26 @@
+# depslib dependency file v1.0
+1693219440 source:e:\coding\codeblocks\online shopping system\main.cpp
+	<iostream>
+	"buyer.h"
+	"admin.h"
+
+1693279456 source:e:\coding\codeblocks\online shopping system\src\buyer.cpp
+	"buyer.h"
+	<stdlib.h>
+
+1692599425 e:\coding\codeblocks\online shopping system\include\buyer.h
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+	<map>
+
+1693241765 source:e:\coding\codeblocks\online shopping system\src\admin.cpp
+	"admin.h"
+
+1692599346 e:\coding\codeblocks\online shopping system\include\admin.h
+	<iostream>
+	<string>
+	<fstream>
+	<limits>
+
